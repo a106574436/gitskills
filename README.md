@@ -4,3 +4,4 @@
 Creating a new branch is quick.
 666
 Creating a new branch is quick and simple.
+分支管理策略
